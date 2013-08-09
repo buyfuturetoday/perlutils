@@ -1,0 +1,9 @@
+############
+# Git Ignore
+############
+*.swp
+*.zip
+*.dot
+*.dot-input
+*.gif
+*.tmp
